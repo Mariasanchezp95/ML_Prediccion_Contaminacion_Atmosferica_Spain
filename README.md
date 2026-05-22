@@ -167,7 +167,7 @@ Este proyecto es reproducible sin dependencias externas adicionales:
 
 ## 8. Autora
 
-**María**  
+**María Jesús Sánchez**  
 - GitHub: https://github.com/Mariasanchezp95  
 - LinkedIn: https://www.linkedin.com/in/maria-sanchez-96056016b 
 
